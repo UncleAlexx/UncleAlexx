@@ -4,9 +4,10 @@
 |IT STEP Academy<br><br>РУЧНОЕ И АВТОМАТИЗИРОВАННОЕ ТЕСТИРОВАНИЕ ПО&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>29.05.2026 - XX.0X.2027|![ItStepDiploma.png](https://doesntExistDiploma.com)|
 |:---|:---|
 
-### My contacts:  
-[![vk](../../blob/master/images/socialMedias/vk.svg)](https://vk.ru/westcoastforlife "my VK profile")
-
+### My contacts: 
+<a href = "https://t.me/BigLimp"><img src = "images/socialMedias/tg.png" alt = "tg" title = "My telegram"> </a>
+<a href = "https://vk.ru/westcoastforlife"><img src = "images/socialMedias/vk.jpg" alt = "vk" title = "My VK"> </a>
+<a href = "itsgddemon@gmail.com"><img src = "images/socialMedias/gmail.png" alt = "vk" title = "My gmail"> </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
