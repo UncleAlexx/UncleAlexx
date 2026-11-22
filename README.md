@@ -6,8 +6,8 @@
 
 ### My contacts: 
 <a href = "https://t.me/BigLimp"><img src = "images/socialMedias/tg.png" width = "40" height = "40" alt = "tg" title = "My telegram"> </a>
-<a href = "https://vk.ru/westcoastforlife"><img src = "images/socialMedias/vk.jpg" width = "40" height = "40"  alt = "vk" title = "My VK"> </a>
-<a href = "mailto:itsgddemon@gmail.com"><img src = "images/socialMedias/gmail.png" alt = "vk" width = "40" height = "40"  title = "My gmail"> </a>
+<a href = "https://vk.ru/westcoastforlife"><img src = "images/socialMedias/vk.png" width = "40" height = "40"  alt = "vk" title = "My VK"> </a>
+<a href = "mailto:itsgddemon@gmail.com"><img src = "images/socialMedias/gmail.jpg" alt = "vk" width = "40" height = "40"  title = "My gmail"> </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
