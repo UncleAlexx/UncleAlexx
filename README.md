@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/UncleAlexx">Alexander</a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/UncleAlexx">Alexander Gai</a></h1>
 <div align ="center">QA/AQA engineer<br><br>Education<br><br></b></div>  
 
 |IT STEP Academy<br><br>РУЧНОЕ И АВТОМАТИЗИРОВАННОЕ ТЕСТИРОВАНИЕ ПО&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>29.05.2026 - XX.0X.2027|![ItStepDiploma.png](https://doesntExistDiploma.com)|
