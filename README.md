@@ -5,9 +5,9 @@
 |:---|:---|
 
 ### My contacts:
-<a href = "https://t.me/BigLimp" target="blank"><img src = "images/socialMedias/tg.svg" width = "40" height = "40" alt = "tg" title = "My telegram"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "https://vk.ru/westcoastforlife" target="blank"><img src = "images/socialMedias/vk.svg" width = "40" height = "40"  alt = "vk" title = "My VK"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "mailto:itsgddemon@gmail.com" target="blank"><img src = "images/socialMedias/gmail.jpg" alt = "vk" width = "40" height = "40"  title = "My gmail"> </a>  
+<a href = "https://t.me/BigLimp" target="_blank"><img src = "images/socialMedias/tg.svg" width = "40" height = "40" alt = "tg" title = "My telegram"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "https://vk.ru/westcoastforlife" target="_blank"><img src = "images/socialMedias/vk.svg" width = "40" height = "40"  alt = "vk" title = "My VK"> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "mailto:itsgddemon@gmail.com"><img src = "images/socialMedias/gmail.jpg" alt = "vk" width = "40" height = "40"  title = "My gmail"> </a>  
 
 ![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=UncleAlexx&show_icons=true&theme=radical)
 ### Tools:
