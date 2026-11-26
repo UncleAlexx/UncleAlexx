@@ -23,7 +23,6 @@
 <img src="images/tools/rest-assured-logo.svg" title="rest-assured" width="70" height="70"/>
 <img src="images/tools/allure-Report-logo.svg" title="allure" width="70" height="70"/>
 <img src="images/tools/IDEA-logo.svg" title="intellij IDEA" width="70" height="70"/>
-<img src="images/tools/selenoid-logo.svg" title="selenoid" width="70" height="70"/>
 <img src="images/tools/git-logo.svg" title="git" width="70" height="70"/>
 <img src="images/tools/github-icon.svg" title="github" width="70" height="70"/>
 <img src="images/tools/jenkins-logo.svg" title="jenkins" width="70" height="70"/>
